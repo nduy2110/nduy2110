@@ -3,7 +3,8 @@
 <br>
 
 <img align='right' src="https://user-images.githubusercontent.com/92567616/212882124-868e70af-8437-4a32-adc7-81ca6fa8d6c1.gif">
-🔭 I’m currently studying in: **Academy of Cryptography Techniques (KMA)**
+
+- 🔭 I’m currently studying in: **Academy of Cryptography Techniques (KMA)**
 
 - 🌱 I’m currently learning: **Websec and Cybersecurity**
 
