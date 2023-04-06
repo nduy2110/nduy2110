@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **Websec and Cybersecurity**
 
-- 📝 I regularly write articles on: [https://endy2110.wordpress.com/](https://endy2110.wordpress.com/)
+- 📝 I regularly write articles on: [https://endy2110.wordpress.com/](https://endy2110.wordpress.com/) or [https://hackmd.io/@endy](https://hackmd.io/@endy)
 
 - 📫 How to reach me: **nduy211003@gmail.com**
 
